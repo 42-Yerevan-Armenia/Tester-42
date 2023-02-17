@@ -19,6 +19,10 @@
     - [Louisabricot](#louisabricot)
     - [Leo](#leo)
     - [Gem](#gem)
+4. [Philosophers](#philosophers)
+    - [Newlinuxbot](#newlinuxbot)
+    - [Lazy](#lazy)
+
 
 ## Unic
 
@@ -109,6 +113,7 @@ In tester directory use command `sh test m`</br>
 ```
 git clone https://github.com/vfurmane/pipex-tester
 ```
+Put in your pipex directory</br>
 In tester directory use command `./run.sh -c`
 
 ## Push_swap
@@ -141,3 +146,18 @@ git clone https://github.com/gemartin99/Push-Swap-Tester
 After cloning replace all into push_swap directory</br>
 In push_swap directory use command
 >bash push_swap_test.sh 100 100
+
+## Philosophers
+
+### newlinuxbot
+```
+git clone https://github.com/newlinuxbot/Philosphers-42Project-Tester
+```
+In tester directory use command `bash start.sh`
+
+### Lazy
+```
+git clone [https://github.com/newlinuxbot/Philosphers-42Project-Tester](https://github.com/MichelleJiam/LazyPhilosophersTester)
+```
+Put in your philo directory</br>
+In tester directory use command `bash ./test.sh ../philo`
