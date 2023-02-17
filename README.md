@@ -13,7 +13,9 @@
 3. [Ft_Printf](#ft_printf)
     - [Tripouille_pf](#tripouille_pf)
     - [Santa](#santa)
-3. [Push_swap](#push_swap)
+4. [Pipex](#pipex)
+    - [Furman](#furman)
+5. [Push_swap](#push_swap)
     - [Louisabricot](#louisabricot)
     - [Leo](#leo)
     - [Gem](#gem)
@@ -100,6 +102,15 @@ https://github.com/paulo-santana/ft_printf_tester
 Put in your ft_printf directory</br>
 In tester directory use command `sh test m`</br>
 
+## Pipex
+
+### Furman
+
+```
+git clone https://github.com/vfurmane/pipex-tester
+```
+In tester directory use command `./run.sh -c`
+
 ## Push_swap
 
 ### Louisabricot
@@ -130,5 +141,3 @@ git clone https://github.com/gemartin99/Push-Swap-Tester
 After cloning replace all into push_swap directory</br>
 In push_swap directory use command
 >bash push_swap_test.sh 100 100
-
-
