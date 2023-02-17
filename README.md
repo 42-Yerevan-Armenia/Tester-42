@@ -1,5 +1,9 @@
 # Read all tester's `Read Me` file if you need more comannds or tools
 
+<p align="center">
+    <img src="https://media.tenor.com/4Ri-KhR5y98AAAAC/remember-that-remember.gif">
+</p>
+
 ## Table of Contents
 0. [Unic](#unic)
     - [Poco](#poco)
@@ -161,3 +165,7 @@ git clone [https://github.com/newlinuxbot/Philosphers-42Project-Tester](https://
 ```
 Put in your philo directory</br>
 In tester directory use command `bash ./test.sh ../philo`
+
+<p align="center">
+    <img src="https://media.tenor.com/QNsHDr_YNmkAAAAd/tommy-boy-passed.gif">
+</p>
