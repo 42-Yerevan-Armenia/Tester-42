@@ -66,7 +66,7 @@ In tester directory use command `bash grademe.sh`</br>
 
 ### Unit-test
 ```
-git clone https://github.com/alelievr/libft-unit-test/tree/old
+git clone https://github.com/alelievr/libft-unit-test.git
 ```
 Change the Path of your libft directory in Makefile
 >(Line 18) LIBFTDIR="/Users/login/.../libft"
