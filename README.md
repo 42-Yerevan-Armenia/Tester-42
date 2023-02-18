@@ -32,7 +32,7 @@
 
 ### Poco
 ```
-git clone https://github.com/xicodomingues/francinette#purpose
+https://github.com/xicodomingues/francinette#purpose
 ```
 Currently has tests for: `libft`, `ft_printf`, `get_next_line`, `minitalk` and `pipex`.
 After cloning instal it by
