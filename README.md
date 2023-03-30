@@ -39,7 +39,7 @@ After cloning instal it by
 ```
 bash -c "$(curl -fsSL https://raw.github.com/xicodomingues/francinette/master/bin/install.sh)"
 ```
-In `(venv)` go in the project directory and write `poco`
+In `(venv)` go in the project directory and write `francinette`
 
 ## Libft
 
